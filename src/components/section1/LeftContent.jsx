@@ -6,7 +6,7 @@ import Hero from './Hero'
 
 const LeftContent = () => {
   return (
-    <div className='h-full flex flex-col justify-between w-l/3'>
+    <div className='h-full flex flex-col justify-between w-2/2'>
     
     <Hero/>
 <Arrow />
